@@ -1,2 +1,2 @@
-print("I will get 30 LPA")
 
+print("I will get 30 LPA.")
