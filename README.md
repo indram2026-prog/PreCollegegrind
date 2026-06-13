@@ -11,7 +11,8 @@ My target is get a +30 LPA package in my placements.
 - Day 2 — Terminal basics and Git commands (cd, ls, mkdir, rmdir, mv, git init, git remote add origin, git remote set-url origin, git add, git commit, git push. Also learnt compiler vs interpreter
 - Day 3 — Learnt about some basic data types like int, float and str
 - Day 4 — Learnt about input and f-string
-- Day 5 — Learnt about math operators (+,-,*,/,**,%) 
+- Day 5 — Learnt about math operators (+,-,*,/,**,%)
+- Day 6 — Learnt about if/elif/else and built my very first project (BMI calculator). It's on day6.py if anyone wants to see.
 
 ## Timeline
 June – July 2026: Python basics
