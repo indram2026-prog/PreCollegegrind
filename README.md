@@ -13,7 +13,7 @@ My target is get a +30 LPA package in my placements.
 - Day 4 — Learnt about input and f-string
 - Day 5 — Learnt about math operators (+,-,*,/,**,%)
 - Day 6 — Learnt about if/elif/else and built my very first project (BMI calculator). It's on day6.py if anyone wants to see.
-- Day 7 — Learnt how to make a multiplication table with for loop.
+- Day 7 — Learnt how to make a multiplication table with for loop. Also did a small quiz on for loops.
 
 ## Timeline
 June – July 2026: Python basics
