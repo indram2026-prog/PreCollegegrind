@@ -15,7 +15,8 @@ My target is get a +30 LPA package in my placements.
 - Day 6 — Learnt about if/elif/else and built my very first project (BMI calculator). It's on day6.py if anyone wants to see.
 - Day 7 — Learnt how to make a multiplication table with for loop. Also did a small quiz on for loops.
 - Day 8 — Learnt how to make a program that counts how many vowels are there in a sentence.
-
+- Day 9 — Learnt how to make a program that could find the average, total, greatest and smallest numbers that are input by the user.
+  
 ## Timeline
 June – July 2026: Python basics
 August 2026: College starts
