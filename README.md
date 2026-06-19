@@ -18,7 +18,7 @@ My target is get a +30 LPA package in my placements.
 - Day 9 — Learnt how to make a program that could find the average, total, greatest and smallest numbers that are input by the user.
 - Day 10 — Learnt how to use while loops, break and continue.
 - Day 11 — Practice session for patterns and nested loops (6 done today.)
-- Day 12 — Practice session for while and for loops. (3 done today.)
+- Day 12 — Practice session for while and for loops. (3 done today.) Also completed a project (Compound interest calculator) a day early.
   
 ## Timeline
 June – July 2026: Python basics
