@@ -19,6 +19,8 @@ My target is get a +30 LPA package in my placements.
 - Day 10 — Learnt how to use while loops, break and continue.
 - Day 11 — Practice session for patterns and nested loops (6 done today.)
 - Day 12 — Practice session for while and for loops. (3 done today.) Also completed a project (Compound interest calculator) a day early.
+- Day 13 — Started learning lists.
+- Day 14 — Started learning dicts today (made a program that lists the patient and their respective BP).
   
 ## Timeline
 June – July 2026: Python basics
