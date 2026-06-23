@@ -21,6 +21,7 @@ My target is get a +30 LPA package in my placements.
 - Day 12 — Practice session for while and for loops. (3 done today.) Also completed a project (Compound interest calculator) a day early.
 - Day 13 — Started learning lists.
 - Day 14 — Started learning dicts today (made a program that lists the patient and their respective BP).
+- Day 15 — Practiced tuples, dicts, and sets — built a mini inventory/zone tracker script.
   
 ## Timeline
 June – July 2026: Python basics
