@@ -23,6 +23,7 @@ My target is get a +30 LPA package in my placements.
 - Day 14 — Started learning dicts today (made a program that lists the patient and their respective BP).
 - Day 15 — Practiced tuples, dicts, and sets — built a mini inventory/zone tracker script.
 - Day 16 — Made two simple projects using lists, dicts, tuples and sets.
+- Day 17 — Gradebook project (start) - student grades tracker with topper finder
   
 ## Timeline
 June – July 2026: Python basics
