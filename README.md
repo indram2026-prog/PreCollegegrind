@@ -24,7 +24,8 @@ My target is get a +30 LPA package in my placements.
 - Day 15 — Practiced tuples, dicts, and sets — built a mini inventory/zone tracker script.
 - Day 16 — Made two simple projects using lists, dicts, tuples and sets.
 - Day 17 — Gradebook project (start) - student grades tracker with topper finder
-- Day 18 — Updated gradebook with class average and total no of students.  
+- Day 18 — Updated gradebook with class average and total no of students.
+- Day 19 — Functions - calculate student averages (scalable, parameterized)  
 ## Timeline
 June – July 2026: Python basics
 August 2026: College starts
