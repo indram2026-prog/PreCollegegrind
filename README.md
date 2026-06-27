@@ -26,7 +26,8 @@ My target is get a +30 LPA package in my placements.
 - Day 17 — Gradebook project (start) - student grades tracker with topper finder
 - Day 18 — Updated gradebook with class average and total no of students.
 - Day 19 — Functions - calculate student averages (scalable, parameterized)
-- Day 20 — Functions - parameters, returns, dict returns, reusability  
+- Day 20 — Functions - parameters, returns, dict returns, reusability (Also completed a dicts quiz today. I have also noticed a mistake in the messages attached to the
+commits made on day 19 and 20. Please forgive my mistake.)
 ## Timeline
 June – July 2026: Python basics
 August 2026: College starts
