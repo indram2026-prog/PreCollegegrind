@@ -1,3 +1,4 @@
+#First attempt, filter-only, 5 passes over data
 grades = [35, 85, 42, 55, 38, 92, 40]
 
 pass_grades = (list(filter(lambda x: x >= 40, grades)))
@@ -29,7 +30,7 @@ F_grade = (list(filter(lambda x: x < 60, pass_grades)))
 for items in F_grade:
     print(f"{items} = F")
 
-
+#Second Attempt, Refactored: filter→map chain, single pass 
 grades = [35, 85, 42, 55, 38, 92, 40]
 
 grade_lambda = lambda x: x >= 40
