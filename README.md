@@ -30,6 +30,7 @@ My target is get a +30 LPA package in my placements.
 commits made on day 19 and 20. Please forgive my mistake.)
 - Day 21 — Lambda functions - single calls, map(), filter()
 - Day 22 — filter+map chaining - grade classifier
+- Day 23 — Created an ECG classifier and its framework
 ## Timeline
 June – July 2026: Python basics
 August 2026: College starts
