@@ -1,7 +1,7 @@
 def classify_ecg(bpm,qt_interval):
     if bpm > 100:
         bpm_class = "Tachycardia"
-    elif bpm <= 100 and bpm >= 6:
+    elif bpm <= 100 and bpm >= 60:
         bpm_class = "Normal"
     else:
         bpm_class = "Bradycardia"
@@ -21,7 +21,7 @@ def classify_ecg(bpm,qt_interval):
         risk = "Medium"
     
 
-    return {"Classification": {bpm_class}, "Heart Rate": {bpm}, "QT Interval": {qt_interval}, "QT Class": {qt_class}, "Risk Factor": {risk}}
+    return {"Classification": bpm_class, "Heart Rate": bpm, "QT Interval": qt_interval, "QT Class": qt_class, "Risk Factor": risk}
 
 result = classify_ecg(72, 400)
 print(result)
