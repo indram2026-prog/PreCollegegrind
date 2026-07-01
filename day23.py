@@ -17,12 +17,12 @@ def classify_ecg(bpm,qt_interval):
         qt_class = "Normal QT"
 
     risk = "Low"
-    if qt_interval >= 400:
-        risk = "High"
     if bpm > 100:
         risk = "High"
     elif bpm < 60:
         risk = "Medium"
+    if qt_interval >= 400:
+        risk = "High"
     
 
     return {"Classification": bpm_class, "Heart Rate": bpm, "QT Interval": qt_interval, "QT Class": qt_class, "Risk Factor": risk}
