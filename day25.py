@@ -39,12 +39,23 @@ with open("settings.txt", "r") as settings:
     print(config)
 
 
-for line in config:
-    config.split("\n")
-    config_dict = {}
-    config_dict["theme"] = "dark"
-    config_dict["fontsize"] = 14
-    config_dict["language"] = "English"
+
+config_dict = {}
+
+
+lines = config.strip().split("\n")
+
+
+for line in lines:
+    if "=" in line:  
+        key, value = line.split("=")
+        
+       
+        if value.isdigit():
+            config_dict[key] = int(value)
+        else:
+            config_dict[key] = value
+
 print(config_dict)
 
 
