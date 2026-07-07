@@ -36,6 +36,7 @@ commits made on day 19 and 20. Please forgive my mistake.)
 - Day 26 — Learnt about CSV and coded a parser
 - Day 27 — Filter senior patients (Age > 40) from patient_records.csv into senior_patients.csv using DictReader/DictWriter.
 - Day 28 — Commencement of DNA transcription project
+- Day 29 — Made some updates to the project
 ## Timeline
 June – July 2026: Python basics
 August 2026: College starts
