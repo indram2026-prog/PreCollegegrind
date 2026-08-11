@@ -40,6 +40,10 @@ commits made on day 19 and 20. Please forgive my mistake.)
 - Day 30 — Started learning about error handling
 - Day 31 — Grocery data tool
 - Day 32 — Statistics Calculator
+
+
+
+- Day 0001 — Returned back to github. Started from fresh with the BMI project. :)
 ## Timeline
 June – July 2026: Python basics
 August 2026: College starts
