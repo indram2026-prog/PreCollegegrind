@@ -45,6 +45,7 @@ commits made on day 19 and 20. Please forgive my mistake.)
 
 - Day 0001 — Returned back to github. Started from fresh with the BMI project. :)
 - Day 0002 — Upgraded my previous compound interest calculator to an improved version able to calculate both simple & compound interest at monthly & yearly rates :)
+- Day 0003 — Sorry for the long break....I have returned with a new gradebook with some edits.
 ## Timeline
 June – July 2026: Python basics
 August 2026: College starts
