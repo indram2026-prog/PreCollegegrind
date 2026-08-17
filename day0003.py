@@ -8,4 +8,11 @@ def add_grade(student, grade):
 for i in range(amount_of_students):
        add_grade(input("Enter student name: "), input("Enter grade: "))
 
+class_average = sum(grades.values()) / len(grades)
+highest_grade = max(grades.values())
+lowest_grade = min(grades.values())
+
 print(grades)
+print(f"The class average is {class_average}.")
+print(f"The highest grade is {highest_grade}.")
+print(f"The lowest grade is {lowest_grade}.")
